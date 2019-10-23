@@ -9,7 +9,7 @@
 The purpose of this document is to provide an overview of the approach used for
 Predictive Analytics to determine the Remaining Useful Life for the Electric Vehicle
 battery state of charge. We have implemented an IoT predictive analytics solution
-leveraging AI and ML.
+leveraging AI & ML.
 
 ## Significance
 
