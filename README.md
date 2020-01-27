@@ -30,7 +30,7 @@ Depending on the audience, the presenter can show:
 Google Cloud Storage, Datalab,, Compute Engine instances
 
 ## Problem
-<p>Apply a supervised regression model to predict remaining useful lifetime (RUL) for the battery State of Charge of the Electric Vehicle </p>
+<p>Apply a supervised regression model to predict remaining useful lifetime (RUL) for the battery State of Charge of the Electric Vehicles </p>
 
 ## Solution
 <p>During the development journey, though several advanced machine learning models
